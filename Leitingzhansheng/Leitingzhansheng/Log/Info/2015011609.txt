@@ -1,0 +1,51 @@
+09:00:40 Clear expired cache end.
+09:10:40 Clear expired cache end.
+09:20:40 Clear expired cache end.
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+09:30:43 Server is starting...
+09:30:45 script compiled successfully.
+09:30:45 Start checking table schema, please wait.
+09:30:45 Check table schema successfully.
+09:30:46 CacheFactory listen has started...
+09:30:46 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+09:38:14 Server is starting...
+09:38:16 script compiled successfully.
+09:38:16 Start checking table schema, please wait.
+09:38:16 Check table schema successfully.
+09:38:16 CacheFactory listen has started...
+09:38:16 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+09:39:24 Server is starting...
+09:39:25 script compiled successfully.
+09:39:25 Start checking table schema, please wait.
+09:39:25 Check table schema successfully.
+09:39:26 CacheFactory listen has started...
+09:39:26 Server has started successfully!
+# Server is listening...

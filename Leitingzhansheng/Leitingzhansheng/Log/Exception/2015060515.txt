@@ -1,0 +1,177 @@
+Time:2015/6/5 15:31:20-Trace>>FindEntityFromRedis Leitingzhansheng.Model.UserRanking error:System.NotImplementedException: Unexpected Type:CacheList`1 for value:ZyGames.Framework.Cache.Generic.CacheList`1[Leitingzhansheng.Model.EquiAttrInfo]
+   在 ZyGames.Framework.Common.Serialization.ProtoObject.set_Value(Object value)
+   在 ZyGames.Framework.Common.Serialization.ProtoObject..ctor(Object obj)
+   在 ZyGames.Framework.Data.SqlStatementManager.ConvertSqlParam(IDataParameter[] parameters)
+   在 ZyGames.Framework.Data.MySql.MySqlDataProvider.GenerateSql(Int32 identityId, CommandStruct command)
+   在 ZyGames.Framework.Net.Sql.SqlDataSender.GenerateSqlQueue[T](T data)
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+
+Time:2015/6/5 15:39:43-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:18-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:19-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:35-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:37-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:37-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:37-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:38-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:40:58-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:41:02-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:41:02-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+
+Time:2015/6/5 15:41:02-Action101；消息：发生异常：值不能为 null。
+参数名: connectionString
+Exception:System.ArgumentNullException: 值不能为 null。
+参数名: connectionString
+   在 ZyGames.Framework.Data.Sql.SqlHelper.ExecuteReader(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters)
+   在 ZyGames.Framework.Data.Sql.SqlDataProvider.ExecuteReader(CommandType commandType, String commandText, IDataParameter[] parameters)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.SetLoginType(RegType& regType, PwdType& pwdType, String passportId)
+   在 ZyGames.Framework.Game.Sns.SnsCenterUser.GetUserId()
+   在 ZyGames.Framework.Game.Sns.SnsManager.LoginByDevice(String user, String password, String deviceID)
+   在 ZyGames.Framework.Game.Sns.Login36you.CheckLogin()
+   在 ZyGames.Framework.Game.Contract.Action.LoginAction.TakeAction()
+   在 ZyGames.Framework.Game.Service.BaseStruct.DoAction()
+
+

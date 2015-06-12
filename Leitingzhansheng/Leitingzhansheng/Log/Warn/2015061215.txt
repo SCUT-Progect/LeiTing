@@ -1,0 +1,81 @@
+Time:2015/6/12 15:04:41-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:04:43-Trace>>Can not find the corresponding language configuration,typeName:ScutDemo.Lang
+
+
+Time:2015/6/12 15:22:15-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:23:20-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:24:35-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:27:20-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:30:46-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:38:25-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:38:29-Trace>>Can not find the corresponding language configuration,typeName:LeiTing.Lang
+
+
+Time:2015/6/12 15:38:52-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:38:54-Trace>>Can not find the corresponding language configuration,typeName:LeiTing.Lang
+
+
+Time:2015/6/12 15:41:56-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:41:59-Trace>>Can not find the corresponding language configuration,typeName:ScutDemo.Lang
+
+
+Time:2015/6/12 15:47:33-Trace>>Db connection not found provider type, PayCenter connectionString:Data Source=localhost;Database=PayDB;Uid=root;Pwd=1234;Pooling=true;
+
+
+Time:2015/6/12 15:47:35-Trace>>Can not find the corresponding language configuration,typeName:ScutDemo.Lang
+
+
+Time:2015/6/12 15:48:04-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/6/12 15:48:04-Trace>>Action-1003 Uid:1 access timeout 606.1062/500ms.
+
+
+Time:2015/6/12 15:48:04-Trace>>OnEntitySyncQueue execute count:1, success:1/total 2, fail:0 start...
+
+
+Time:2015/6/12 15:56:11-Trace>>OnEntitySyncQueue execute count:1, success:2/total 3, fail:0 start...
+
+
+Time:2015/6/12 15:57:07-Trace>>OnEntitySyncQueue execute count:1, success:3/total 4, fail:0 start...
+
+
+Time:2015/6/12 15:57:18-Trace>>OnEntitySyncQueue execute count:1, success:4/total 5, fail:0 start...
+
+
+Time:2015/6/12 15:57:36-Trace>>OnEntitySyncQueue execute count:1, success:5/total 6, fail:0 start...
+
+
+Time:2015/6/12 15:57:36-Trace>>OnEntitySyncQueue execute count:5, success:6/total 11, fail:0 start...
+
+
+Time:2015/6/12 15:57:37-Trace>>OnEntitySyncQueue execute count:1, success:11/total 12, fail:0 start...
+
+
+Time:2015/6/12 15:57:38-Trace>>OnEntitySyncQueue execute count:1, success:12/total 13, fail:0 start...
+
+
+Time:2015/6/12 15:57:39-Trace>>OnEntitySyncQueue execute count:1, success:13/total 14, fail:0 start...
+
+
+Time:2015/6/12 15:57:40-Trace>>OnEntitySyncQueue execute count:1, success:14/total 15, fail:0 start...
+
+

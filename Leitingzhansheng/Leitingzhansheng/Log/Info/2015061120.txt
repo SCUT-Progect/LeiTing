@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+20:05:19 Server is starting...
+20:05:22 script compiled successfully.
+20:05:22 Start checking table schema, please wait.
+20:05:22 Check table schema successfully.
+20:05:22 CacheFactory listen has started...
+20:05:22 Server has started successfully!
+# Server is listening...
+20:15:40 Clear expired cache end.

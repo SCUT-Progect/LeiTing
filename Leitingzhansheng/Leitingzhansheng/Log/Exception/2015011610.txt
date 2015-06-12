@@ -1,0 +1,30 @@
+Time:2015/1/16 10:26:36-Trace>>EntitySync queue key Leitingzhansheng.Model.GameUser_1|1 faild object is null.
+
+
+Time:2015/1/16 10:27:25-Trace>>EntitySync queue key Leitingzhansheng.Model.GameUser_2|2 faild object is null.
+
+
+Time:2015/1/16 10:32:17-Trace>>Action request GameServer.CsScript.Action.Action101,GameServer.CsScript error:System.ArgumentNullException: 值不能为 null。
+参数名: constructor
+   在 System.Linq.Expressions.Expression.New(ConstructorInfo constructor, IEnumerable`1 arguments)
+   在 ZyGames.Framework.Common.Reflect.FastActivator.BuildDeletgateObj(Type type, Type[] typeList)
+   在 ZyGames.Framework.Common.Reflect.FastActivator.Create(Type type, Object[] args)
+   在 ZyGames.Framework.Common.ObjectExtend.CreateInstance(Type type, Object[] args)
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.CreateInstance(String scriptCode, String typeName, Object[] args, Object& result)
+   在 ZyGames.Framework.Script.CSharpRuntimeScope.Execute(String scriptCode, String typeName, Object[] args)
+   在 ZyGames.Framework.Script.ScriptEngines.Execute(String scriptCode, String typeName, Object[] args)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.FindScriptRoute(ActionGetter actionGetter, Int32 actionID)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.FindRoute(String typeExpression, ActionGetter actionGetter, Int32 actionId)
+   在 ZyGames.Framework.Game.Contract.ActionFactory.Request(String typeName, ActionGetter actionGetter, BaseGameResponse response)
+param:MsgId=0&Sid=&Uid=0&ActionID=101&userName=WML&password=1234&sign=
+
+
+Time:2015/1/16 10:35:26-Trace>>FindEntityFromRedis Leitingzhansheng.Model.UserRanking error:System.NotImplementedException: Unexpected Type:CacheList`1 for value:ZyGames.Framework.Cache.Generic.CacheList`1[Leitingzhansheng.Model.EquiAttrInfo]
+   在 ZyGames.Framework.Common.Serialization.ProtoObject.set_Value(Object value)
+   在 ZyGames.Framework.Common.Serialization.ProtoObject..ctor(Object obj)
+   在 ZyGames.Framework.Data.SqlStatementManager.ConvertSqlParam(IDataParameter[] parameters)
+   在 ZyGames.Framework.Data.MySql.MySqlDataProvider.GenerateSql(Int32 identityId, CommandStruct command)
+   在 ZyGames.Framework.Net.Sql.SqlDataSender.GenerateSqlQueue[T](T data)
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+

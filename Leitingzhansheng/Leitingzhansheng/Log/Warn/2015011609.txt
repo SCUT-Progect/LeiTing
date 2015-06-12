@@ -1,0 +1,9 @@
+Time:2015/1/16 9:30:45-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/1/16 9:38:16-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/1/16 9:39:25-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+

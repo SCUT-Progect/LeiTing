@@ -1,0 +1,99 @@
+00:07:01 Clear expired cache end.
+00:17:01 Clear expired cache end.
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+00:21:54 Server is starting...
+00:22:12 script compiled successfully.
+00:22:13 Start checking table schema, please wait.
+00:22:14 Check table schema successfully.
+00:22:17 CacheFactory listen has started...
+00:22:19 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+00:24:05 Server is starting...
+00:24:19 script compiled successfully.
+00:24:20 Start checking table schema, please wait.
+00:24:20 Check table schema successfully.
+00:24:23 CacheFactory listen has started...
+00:24:25 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+00:26:31 Server is starting...
+00:26:37 script compiled successfully.
+00:26:38 Start checking table schema, please wait.
+00:26:38 Check table schema successfully.
+00:26:40 CacheFactory listen has started...
+00:26:43 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+00:31:25 Server is starting...
+00:31:35 script compiled successfully.
+00:31:36 Start checking table schema, please wait.
+00:31:36 Check table schema successfully.
+00:31:38 CacheFactory listen has started...
+00:31:40 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+00:34:04 Server is starting...
+00:34:13 script compiled successfully.
+00:34:13 Start checking table schema, please wait.
+00:34:14 Check table schema successfully.
+00:34:17 CacheFactory listen has started...
+00:34:19 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+00:41:43 Server is starting...
+00:41:45 script compiled successfully.
+00:41:45 Start checking table schema, please wait.
+00:41:45 Check table schema successfully.
+00:41:46 CacheFactory listen has started...
+00:41:46 Server has started successfully!
+# Server is listening...
+00:52:01 Clear expired cache end.

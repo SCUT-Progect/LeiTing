@@ -1,0 +1,50 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+22:27:35 Server is starting...
+22:27:39 script compiled successfully.
+22:27:39 Start checking table schema, please wait.
+22:27:39 Check table schema successfully.
+22:27:40 CacheFactory listen has started...
+22:27:40 Server has started successfully!
+# Server is listening...
+22:38:00 Clear expired cache end.
+22:48:00 Clear expired cache end.
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+22:58:07 Server is starting...
+22:58:09 script compiled successfully.
+22:58:09 Start checking table schema, please wait.
+22:58:09 Check table schema successfully.
+22:58:10 CacheFactory listen has started...
+22:58:10 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+22:59:41 Server is starting...
+22:59:43 script compiled successfully.
+22:59:43 Start checking table schema, please wait.
+22:59:43 Check table schema successfully.
+22:59:43 CacheFactory listen has started...
+22:59:43 Server has started successfully!
+# Server is listening...

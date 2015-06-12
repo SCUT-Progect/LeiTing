@@ -1,0 +1,8 @@
+Time:2015/6/12 13:46:18-Trace>>FindEntityFromRedis ScutDemo.Model.DataModel.PassportInfo error:Microsoft.Scripting.ArgumentTypeException: Get entity "$ScutDemo.Model.DataModel.PassportInfo" type is null
+   дк ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+
+Time:2015/6/12 13:46:18-Trace>>FindEntityFromRedis ScutDemo.Model.DataModel.GameUser error:Microsoft.Scripting.ArgumentTypeException: Get entity "$ScutDemo.Model.DataModel.GameUser" type is null
+   дк ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+

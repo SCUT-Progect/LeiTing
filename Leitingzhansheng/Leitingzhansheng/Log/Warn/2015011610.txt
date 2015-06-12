@@ -1,0 +1,36 @@
+Time:2015/1/16 10:12:58-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/1/16 10:17:20-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/1/16 10:17:24-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/1/16 10:21:48-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/1/16 10:22:00-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/1/16 10:26:32-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/1/16 10:26:36-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/1/16 10:27:25-Trace>>OnEntitySyncQueue execute count:1, success:0/total 2, fail:1 start...
+
+
+Time:2015/1/16 10:32:06-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/1/16 10:32:45-Trace>>OnEntitySyncQueue execute count:1, success:0/total 1, fail:0 start...
+
+
+Time:2015/1/16 10:34:10-Trace>>OnEntitySyncQueue execute count:2, success:1/total 3, fail:0 start...
+
+
+Time:2015/1/16 10:35:25-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+

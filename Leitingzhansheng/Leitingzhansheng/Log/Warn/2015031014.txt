@@ -1,0 +1,9 @@
+Time:2015/3/10 14:19:15-Trace>>Can not find the corresponding language configuration,typeName:Leitingzhansheng.Script.CsScript.Locale.SimplifiedLanguage
+
+
+Time:2015/3/10 14:27:15-Trace>>OnEntitySyncQueue execute count:2, success:0/total 2, fail:0 start...
+
+
+Time:2015/3/10 14:35:05-Trace>>OnEntitySyncQueue execute count:2, success:2/total 4, fail:0 start...
+
+

@@ -1,0 +1,9 @@
+Time:2015/4/5 19:26:36-Trace>>The data:Leitingzhansheng.Model.GameUser_1 has been loaded 1
+
+
+Time:2015/4/5 19:27:45-Trace>>The data:Leitingzhansheng.Model.GameUser_1 has been loaded 1
+
+
+Time:2015/4/5 19:33:30-Trace>>The data:Leitingzhansheng.Model.GameUser_1 has been loaded 1
+
+

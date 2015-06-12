@@ -1,0 +1,6 @@
+Time:2015/6/5 15:26:39-Trace>>The data:Leitingzhansheng.Model.UserRanking has been loaded 2
+
+
+Time:2015/6/5 15:47:38-Trace>>The data:Leitingzhansheng.Model.UserRanking has been loaded 3
+
+

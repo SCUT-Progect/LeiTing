@@ -1,0 +1,100 @@
+Time:2015/6/5 16:26:16-Trace>>Get redis "Leitingzhansheng.Model.GameUser" key:"Leitingzhansheng.Model.GameUser_123" cache error:System.Exception: ProtoBuf deserialize type:Leitingzhansheng.Model.GameUser error ---> ProtoBuf.ProtoException: Sub-message not read correctly
+   在 ProtoBuf.ProtoReader.EndSubItem(SubItemToken token, ProtoReader reader)
+   在 ProtoBuf.BclHelpers.ReadTimeSpanTicks(ProtoReader source)
+   在 ProtoBuf.BclHelpers.ReadDateTime(ProtoReader source)
+   在 ProtoBuf.Serializers.DateTimeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TagDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.PropertyDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TypeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.TryGetEntity[T](String redisKey, SchemaTable table, List`1& list)
+
+
+Time:2015/6/5 16:30:10-Trace>>Get redis "Leitingzhansheng.Model.GameUser" key:"Leitingzhansheng.Model.GameUser_123" cache error:System.Exception: ProtoBuf deserialize type:Leitingzhansheng.Model.GameUser error ---> ProtoBuf.ProtoException: Sub-message not read correctly
+   在 ProtoBuf.ProtoReader.EndSubItem(SubItemToken token, ProtoReader reader)
+   在 ProtoBuf.BclHelpers.ReadTimeSpanTicks(ProtoReader source)
+   在 ProtoBuf.BclHelpers.ReadDateTime(ProtoReader source)
+   在 ProtoBuf.Serializers.DateTimeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TagDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.PropertyDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TypeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.TryGetEntity[T](String redisKey, SchemaTable table, List`1& list)
+
+
+Time:2015/6/5 16:31:48-Trace>>Get redis "Leitingzhansheng.Model.GameUser" key:"Leitingzhansheng.Model.GameUser_123" cache error:System.Exception: ProtoBuf deserialize type:Leitingzhansheng.Model.GameUser error ---> ProtoBuf.ProtoException: Sub-message not read correctly
+   在 ProtoBuf.ProtoReader.EndSubItem(SubItemToken token, ProtoReader reader)
+   在 ProtoBuf.BclHelpers.ReadTimeSpanTicks(ProtoReader source)
+   在 ProtoBuf.BclHelpers.ReadDateTime(ProtoReader source)
+   在 ProtoBuf.Serializers.DateTimeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TagDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.PropertyDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TypeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.TryGetEntity[T](String redisKey, SchemaTable table, List`1& list)
+
+
+Time:2015/6/5 16:34:01-Trace>>Get redis "Leitingzhansheng.Model.GameUser" key:"Leitingzhansheng.Model.GameUser_123" cache error:System.Exception: ProtoBuf deserialize type:Leitingzhansheng.Model.GameUser error ---> ProtoBuf.ProtoException: Sub-message not read correctly
+   在 ProtoBuf.ProtoReader.EndSubItem(SubItemToken token, ProtoReader reader)
+   在 ProtoBuf.BclHelpers.ReadTimeSpanTicks(ProtoReader source)
+   在 ProtoBuf.BclHelpers.ReadDateTime(ProtoReader source)
+   在 ProtoBuf.Serializers.DateTimeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TagDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.PropertyDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TypeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.TryGetEntity[T](String redisKey, SchemaTable table, List`1& list)
+
+
+Time:2015/6/5 16:35:06-Trace>>Get redis "Leitingzhansheng.Model.GameUser" key:"Leitingzhansheng.Model.GameUser_123" cache error:System.Exception: ProtoBuf deserialize type:Leitingzhansheng.Model.GameUser error ---> ProtoBuf.ProtoException: Sub-message not read correctly
+   在 ProtoBuf.ProtoReader.EndSubItem(SubItemToken token, ProtoReader reader)
+   在 ProtoBuf.BclHelpers.ReadTimeSpanTicks(ProtoReader source)
+   在 ProtoBuf.BclHelpers.ReadDateTime(ProtoReader source)
+   在 ProtoBuf.Serializers.DateTimeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TagDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.PropertyDecorator.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Serializers.TypeSerializer.Read(Object value, ProtoReader source)
+   在 ProtoBuf.Meta.RuntimeTypeModel.Deserialize(Int32 key, Object value, ProtoReader source)
+   在 ProtoBuf.Meta.TypeModel.DeserializeCore(ProtoReader reader, Type type, Object value, Boolean noAutoCreate)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type, SerializationContext context)
+   在 ProtoBuf.Meta.TypeModel.Deserialize(Stream source, Object value, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.DeserializeAutoGZip(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtoBufUtils.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Common.Serialization.ProtobufCacheSerializer.Deserialize(Byte[] data, Type type)
+   在 ZyGames.Framework.Redis.RedisConnectionPool.TryGetEntity[T](String redisKey, SchemaTable table, List`1& list)
+
+

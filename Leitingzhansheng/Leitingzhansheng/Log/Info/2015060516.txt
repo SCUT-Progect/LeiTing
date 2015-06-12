@@ -1,0 +1,161 @@
+16:07:20 Clear expired cache end.
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:17:27 Server is starting...
+16:17:29 script compiled successfully.
+16:17:29 Start checking table schema, please wait.
+16:17:29 Check table schema successfully.
+16:17:30 CacheFactory listen has started...
+16:17:30 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:25:07 Server is starting...
+16:25:10 script compiled successfully.
+16:25:10 Start checking table schema, please wait.
+16:25:10 Check table schema successfully.
+16:25:10 CacheFactory listen has started...
+16:25:11 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:25:45 Server is starting...
+16:25:47 script compiled successfully.
+16:25:47 Start checking table schema, please wait.
+16:25:47 Check table schema successfully.
+16:25:48 CacheFactory listen has started...
+16:25:48 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:29:47 Server is starting...
+16:29:49 script compiled successfully.
+16:29:49 Start checking table schema, please wait.
+16:29:49 Check table schema successfully.
+16:29:49 CacheFactory listen has started...
+16:29:50 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:31:41 Server is starting...
+16:31:43 script compiled successfully.
+16:31:43 Start checking table schema, please wait.
+16:31:43 Check table schema successfully.
+16:31:43 CacheFactory listen has started...
+16:31:43 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:33:54 Server is starting...
+16:33:56 script compiled successfully.
+16:33:56 Start checking table schema, please wait.
+16:33:56 Check table schema successfully.
+16:33:57 CacheFactory listen has started...
+16:33:57 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:34:59 Server is starting...
+16:35:01 script compiled successfully.
+16:35:01 Start checking table schema, please wait.
+16:35:01 Check table schema successfully.
+16:35:01 CacheFactory listen has started...
+16:35:01 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:43:23 Server is starting...
+16:43:27 script compiled successfully.
+16:43:27 Start checking table schema, please wait.
+16:43:27 Check table schema successfully.
+16:43:27 CacheFactory listen has started...
+16:43:28 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:52:07 Server is starting...
+16:52:10 script compiled successfully.
+16:52:10 Start checking table schema, please wait.
+16:52:10 Check table schema successfully.
+16:52:11 CacheFactory listen has started...
+16:52:11 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+16:57:29 Server is starting...
+16:57:31 script compiled successfully.
+16:57:31 Start checking table schema, please wait.
+16:57:31 Check table schema successfully.
+16:57:31 CacheFactory listen has started...
+16:57:32 Server has started successfully!
+# Server is listening...

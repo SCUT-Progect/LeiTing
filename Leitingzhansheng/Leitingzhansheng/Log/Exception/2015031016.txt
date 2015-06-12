@@ -1,0 +1,9 @@
+Time:2015/3/10 16:43:20-Trace>>FindEntityFromRedis Leitingzhansheng.Model.UserRanking error:System.NotImplementedException: Unexpected Type:CacheList`1 for value:ZyGames.Framework.Cache.Generic.CacheList`1[Leitingzhansheng.Model.EquiAttrInfo]
+   在 ZyGames.Framework.Common.Serialization.ProtoObject.set_Value(Object value)
+   在 ZyGames.Framework.Common.Serialization.ProtoObject..ctor(Object obj)
+   在 ZyGames.Framework.Data.SqlStatementManager.ConvertSqlParam(IDataParameter[] parameters)
+   在 ZyGames.Framework.Data.MySql.MySqlDataProvider.GenerateSql(Int32 identityId, CommandStruct command)
+   在 ZyGames.Framework.Net.Sql.SqlDataSender.GenerateSqlQueue[T](T data)
+   在 ZyGames.Framework.Cache.Generic.DataSyncQueueManager.GenerateSqlFrom(SqlDataSender sender, RedisClient client, Byte[][] keys, Byte[][] values)
+
+

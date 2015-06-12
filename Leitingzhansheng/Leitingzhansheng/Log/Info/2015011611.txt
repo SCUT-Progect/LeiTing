@@ -1,0 +1,32 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+11:19:47 Server is starting...
+11:19:49 script compiled successfully.
+11:19:49 Start checking table schema, please wait.
+11:19:49 Check table schema successfully.
+11:19:49 CacheFactory listen has started...
+11:19:49 Server has started successfully!
+# Server is listening...
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+11:36:21 Server is starting...
+11:36:23 script compiled successfully.
+11:36:23 Start checking table schema, please wait.
+11:36:23 Check table schema successfully.
+11:36:23 CacheFactory listen has started...
+11:36:23 Server has started successfully!
+# Server is listening...

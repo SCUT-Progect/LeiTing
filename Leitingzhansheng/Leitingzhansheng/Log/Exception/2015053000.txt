@@ -1,0 +1,12 @@
+Time:2015/5/30 0:32:10-Trace>>EntitySync queue key Leitingzhansheng.Model.GameUser_1001|1001 faild object is null.
+
+
+Time:2015/5/30 0:34:43-Trace>>EntitySync queue key Leitingzhansheng.Model.GameUser_1001|1001 faild object is null.
+
+
+Time:2015/5/30 0:36:11-Trace>>EntitySync queue key Leitingzhansheng.Model.GameUser_12|12 faild object is null.
+
+
+Time:2015/5/30 0:41:55-Trace>>EntitySync queue key Leitingzhansheng.Model.GameUser_12|12 faild object is null.
+
+

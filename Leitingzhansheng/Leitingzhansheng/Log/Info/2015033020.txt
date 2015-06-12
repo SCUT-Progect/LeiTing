@@ -1,0 +1,30 @@
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+20:33:15 Server is starting...
+Error: the redis server is not started.
+20:33:18 Server failed to start!
+///////////////////////////////////////////////////////////////////////////
+
+    //   ) )  //   ) )  //   / / /__  ___/   SCUT Server version 6.7.9.1
+   ((        //        //   / /    / /       Game: 0   Server: 0
+     \\     //        //   / /    / /        Port: 9001
+       ) ) //        //   / /    / /        
+((___ / / ((____/ / ((___/ /    / /                http://www.scutgame.com
+
+
+20:33:43 Server is starting...
+20:33:48 script compiled successfully.
+20:33:48 Start checking table schema, please wait.
+20:33:49 Check table schema successfully.
+20:33:49 CacheFactory listen has started...
+20:33:49 Server has started successfully!
+# Server is listening...
+20:44:00 Clear expired cache end.
+20:54:00 Clear expired cache end.

@@ -1,0 +1,46 @@
+﻿D:\Leitingzhansheng\Leitingzhansheng> "C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe" /t:library /utf8output /R:"System.dll" /R:"System.Core.dll" /R:"System.Data.dll" /R:"System.Xml.dll" /R:"System.Xml.Linq.dll" /R:"Microsoft.CSharp.dll" /R:"System.Configuration.dll" /R:"System.Web.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\NLog.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\Newtonsoft.Json.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\protobuf-net.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\ServiceStack.Redis.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Common.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll" /R:"D:\Leitingzhansheng\Leitingzhansheng\temp\n52ls4v4.dll" /out:"D:\Leitingzhansheng\Leitingzhansheng\temp\angkxzca.dll" /D:DEBUG /debug+ /optimize-  "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\MainClass.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\ActionIDDefine.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1000.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1011.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1009.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1007.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1014.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\GameBIG5Language.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1010.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1008.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1006.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1003.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Base\GetPrizeHelper.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Base\ItemHelper.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1002.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Properties\AssemblyInfo.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\LuaFuncProxy.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1005.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\GameZHLanguage.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1001.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\BaseAction.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1013.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\IGameLanguage.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1004.cs" "D:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1012.cs"
+
+
+Microsoft(R) Visual C# 编译器版本 4.0.30319.33440
+用于 Microsoft(R) .NET Framework 4.5
+版权所有 (C) Microsoft Corporation。保留所有权利。
+
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\IGameLanguage.cs(26,16): warning CS0108: “ScutDemo.Lang.IGameLanguage.LoadDataError”隐藏了继承的成员“ZyGames.Framework.Game.Lang.ILanguage.LoadDataError”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\GameBIG5Language.cs(71,23): warning CS0108: “ScutDemo.Lang.GameBig5Language.LoadDataError”隐藏了继承的成员“ZyGames.Framework.Game.Lang.BaseBIG5Language.LoadDataError”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(51,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.UrlParamOutRange”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.UrlParamOutRange”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(56,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.ServerMaintain”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.ServerMaintain”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(61,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.ServerLoading”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.ServerLoading”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(66,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.RequestTimeout”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.RequestTimeout”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(70,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.PasswordError”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.PasswordError”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(75,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.LoadDataError”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.LoadDataError”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(80,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.AcountIsLocked”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.AcountIsLocked”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(85,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.AcountNoLogin”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.AcountNoLogin”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(90,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.AcountLogined”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.AcountLogined”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(95,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.AppStorePayError”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.AppStorePayError”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\SimplifiedLanguage.cs(99,23): warning CS0108: “ScutDemo.Lang.SimplifiedLanguage.GetAccessFailure”隐藏了继承的成员“ZyGames.Framework.Game.Lang.Language.GetAccessFailure”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\GameZHLanguage.cs(71,23): warning CS0108: “ScutDemo.Lang.GameZHLanguage.LoadDataError”隐藏了继承的成员“ZyGames.Framework.Game.Lang.BaseZHLanguage.LoadDataError”。如果是有意隐藏，请使用关键字 new。
+d:\Leitingzhansheng\Leitingzhansheng\ZyGames.Framework.Game.dll: (与前一个警告相关的符号位置)
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\GameBIG5Language.cs(32,11): warning CS0612: “ZyGames.Framework.Game.Lang.BaseBIG5Language”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs(35,60): warning CS0612: “ZyGames.Framework.Game.Lang.LangEnum”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs(36,33): warning CS0612: “ZyGames.Framework.Game.Lang.LangEnum”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs(49,37): warning CS0612: “ZyGames.Framework.Game.Lang.LangEnum”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\GameZHLanguage.cs(32,11): warning CS0612: “ZyGames.Framework.Game.Lang.BaseZHLanguage”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\IGameLanguage.cs(5,22): warning CS0612: “ZyGames.Framework.Game.Lang.ILanguage”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Action\Action1011.cs(60,68): warning CS0472: 由于“int”类型的值永不等于“int?”类型的“null”，该表达式的结果始终为“true”
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs(35,88): warning CS0612: “ZyGames.Framework.Game.Lang.LangEnum”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs(40,78): warning CS0612: “ZyGames.Framework.Game.Lang.LangEnum”已过时
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs(41,13): warning CS0618: “ZyGames.Framework.Game.Lang.LanguageHelper”已过时:“Use Language.Instance call.”
+d:\Leitingzhansheng\Leitingzhansheng\Script\CsScript\Locale\LanguageManager.cs(60,34): warning CS0612: “ZyGames.Framework.Game.Lang.LangEnum”已过时
